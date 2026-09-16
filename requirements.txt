@@ -1,0 +1,5 @@
+# Pygame 社区版 (pygame-ce)
+# 与 pygame 官方版 API 完全兼容, import 名同样是 pygame。
+# 选用原因: 官方 pygame 暂无 Python 3.14 的 Windows 预编译包,
+# 源码编译又因 setuptools 移除 distutils 而失败, pygame-ce 提供 cp314 wheel。
+pygame-ce>=2.5
