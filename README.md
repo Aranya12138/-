@@ -36,9 +36,6 @@
 | 图形库 | pygame-ce 2.5.8(Pygame 社区版, API 与官方 pygame 完全兼容, `import pygame` 用法不变) |
 | 字体 | 系统自带微软雅黑(msyh.ttc) |
 
-> 注: 官方 pygame 暂无 Python 3.14 的 Windows 预编译包, 因此选用提供 cp314 wheel 的 pygame-ce。
-> 界面全部由代码绘制, 无需任何外部图片/音频素材。
-
 ## 安装与运行
 
 ```bash
@@ -86,7 +83,7 @@ python -m unittest discover -s tests -v
 python tools/smoke_test.py
 ```
 
-测试详情与手工试玩记录见 [docs/测试记录.md](docs/测试记录.md)。
+测试详情与手工试玩记录见 [测试记录.md](测试记录.md)。
 
 ## 拓展功能
 
@@ -122,7 +119,6 @@ arrow-game/
 ├── save.py            # 进度存档(本地 JSON)
 ├── tests/             # 单元测试(26 个用例)
 ├── tools/             # 自动试玩脚本、截图生成脚本
-├── screenshots/       # 游戏截图
 └── docs/              # 测试记录、AIGC 使用记录
 ```
 
