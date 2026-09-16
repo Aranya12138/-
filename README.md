@@ -17,22 +17,22 @@
 
 | 开始界面 | 游戏界面 | 碰撞反馈 |
 | :---: | :---: | :---: |
-| ![开始界面](<img width="900" height="740" alt="start" src="https://github.com/user-attachments/assets/4d8bbe41-f0d7-427d-a864-7dc244a8bdad" />
-) | ![游戏界面](<img width="900" height="740" alt="game" src="https://github.com/user-attachments/assets/7a4aac27-2438-40b9-bd0b-e52c7aa28b04" />
-) | ![碰撞反馈](<img width="900" height="740" alt="collision" src="https://github.com/user-attachments/assets/8a7bb859-e2d8-4000-8f91-79031a2a8245" />
+| (<img width="900" height="740" alt="start" src="https://github.com/user-attachments/assets/4d8bbe41-f0d7-427d-a864-7dc244a8bdad" />
+) | (<img width="900" height="740" alt="game" src="https://github.com/user-attachments/assets/7a4aac27-2438-40b9-bd0b-e52c7aa28b04" />
+) | (<img width="900" height="740" alt="collision" src="https://github.com/user-attachments/assets/8a7bb859-e2d8-4000-8f91-79031a2a8245" />
 ) |
 
 | 通关结算 | 失败结算 | 全部通关 |
 | :---: | :---: | :---: |
-| ![通关结算](<img width="900" height="740" alt="win" src="https://github.com/user-attachments/assets/ce457aaf-62b1-4e91-ab1e-1f69e480f723" />
-) | ![失败结算](<img width="900" height="740" alt="fail" src="https://github.com/user-attachments/assets/677ccf1a-fd19-4554-ac3d-873c8fe6bb20" />
-) | ![全部通关](<img width="900" height="740" alt="all_clear" src="https://github.com/user-attachments/assets/5462eb74-1b3c-46f2-906d-fa8c9c00d0ab" />
+| (<img width="900" height="740" alt="win" src="https://github.com/user-attachments/assets/ce457aaf-62b1-4e91-ab1e-1f69e480f723" />
+) | (<img width="900" height="740" alt="fail" src="https://github.com/user-attachments/assets/677ccf1a-fd19-4554-ac3d-873c8fe6bb20" />
+) | (<img width="900" height="740" alt="all_clear" src="https://github.com/user-attachments/assets/5462eb74-1b3c-46f2-906d-fa8c9c00d0ab" />
 ) |
 
 | 进阶关卡(拐弯长箭) | 关卡选择 | |
 | :---: | :---: | :---: |
-| ![进阶关卡](<img width="900" height="740" alt="advanced" src="https://github.com/user-attachments/assets/0283b010-61f8-455b-8608-0e556fc601ea" />
-) | ![关卡选择](<img width="900" height="740" alt="select" src="https://github.com/user-attachments/assets/d8e047a3-63ff-4fac-beb3-4cd14fa93170" />
+| (<img width="900" height="740" alt="advanced" src="https://github.com/user-attachments/assets/0283b010-61f8-455b-8608-0e556fc601ea" />
+) | (<img width="900" height="740" alt="select" src="https://github.com/user-attachments/assets/d8e047a3-63ff-4fac-beb3-4cd14fa93170" />
 ) | |
 
 ## 开发环境
