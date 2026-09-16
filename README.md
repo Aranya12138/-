@@ -25,7 +25,7 @@
 
 | 进阶关卡(拐弯长箭) | 关卡选择 | |
 | :---: | :---: | :---: |
-| <img width="900" height="740" alt="advanced" src="https://github.com/user-attachments/assets/0283b010-61f8-455b-8608-0e556fc601ea" />| <img width="900" height="740" alt="select" src="https://github.com/user-attachments/assets/d8e047a3-63ff-4fac-beb3-4cd14fa93170" />| |
+| <img width="900" height="740" alt="advanced" src="https://github.com/user-attachments/assets/0283b010-61f8-455b-8608-0e556fc601ea" />| <img width="900" height="740" alt="select" src="https://github.com/user-attachments/assets/d8e047a3-63ff-4fac-beb3-4cd14fa93170" />|
 
 ## 开发环境
 
