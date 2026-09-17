@@ -104,7 +104,7 @@ pip install pyinstaller
 py -m PyInstaller --onefile --windowed --name "一箭又一箭" main.py
 ```
 
-生成的可执行文件位于 `dist/一箭又一箭.exe`, 双击即可运行, 无需安装 Python。
+生成的可执行文件位于 `一箭又一箭.exe`, 双击即可运行, 无需安装 Python。
 
 ## 项目结构
 
